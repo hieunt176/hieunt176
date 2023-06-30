@@ -1,6 +1,8 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/hieu_vipro"><img src="https://api.daily.dev/devcards/aec7381361384de4aad491def24881fd.png?r=hds" width="400" alt="Trung Hieu Ngo's Dev Card"/></a>
-https://github-readme-stats.vercel.app/api?username=hieunt176&theme=dark&show_icons=true
+<a href="[https://app.daily.dev/hieu_vipro](https://github-readme-stats.vercel.app/api?username=hieunt176&theme=dark&show_icons=true)"><img src="https://api.daily.dev/devcards/aec7381361384de4aad491def24881fd.png?r=hds" width="400" alt="Trung Hieu Ngo's Dev Card"/></a>
+
+
 <!--
 **hieunt176/hieunt176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
