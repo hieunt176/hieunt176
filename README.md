@@ -1,4 +1,4 @@
-### Hi there, I'm Hieu Vipro, a "Siêu cấp Vipro" developer 👋
+### Hi there, I'm Hieu, a "Siêu cấp Vipro" developer 👋
 <a href="https://github-readme-stats.vercel.app/api?username=hieunt176&theme=dark&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=hieunt176&theme=dark&show_icons=true" width="400" alt="Hieu stats"/></a>
 <br>
 <a href="https://app.daily.dev/hieu_vipro"><img src="https://api.daily.dev/devcards/aec7381361384de4aad491def24881fd.png?r=hds" width="400" alt="Trung Hieu Ngo's Dev Card"/></a>
